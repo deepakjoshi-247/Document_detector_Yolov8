@@ -1,4 +1,4 @@
-# Real-Time ID Card Detection System
+# Real-Time Document Detection Model
 This project uses YOLOv8 to detect and classify Pan Cards and Aadhaar Cards (Front/Back) via a live webcam feed.
 
 ## Features
