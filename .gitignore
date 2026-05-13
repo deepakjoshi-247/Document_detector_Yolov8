@@ -1,0 +1,15 @@
+# Ignore Colab/Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+sample_data/
+
+# Ignore massive data folders
+dataset/
+*.zip
+
+# Ignore local training runs (keep the repo clean)
+runs/
+
+# Allow the final model weights
+*.pt
+!best.pt
