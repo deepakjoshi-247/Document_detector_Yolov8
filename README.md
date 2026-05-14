@@ -13,3 +13,4 @@ This project uses YOLOv8 to detect and classify Pan Cards and Aadhaar Cards (Fro
 ## Note - 
 1. For now the accuracy is 85%.
 2. Our Future Roadmap is now to increase the accuracy and To make it detect more Documents.
+
